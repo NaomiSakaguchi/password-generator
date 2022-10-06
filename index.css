@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    background-color: black
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
